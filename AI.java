@@ -8,7 +8,7 @@ public class AI {
      * y aprender nuevas respuestas.
      *
      * @author ChatGPT
-     * @version 1.0
+     * @version 1.1
      * @since 2025-02-23
      */
     public class AIAssistant {
